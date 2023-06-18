@@ -1,3 +1,5 @@
+##In case of error after cloning the repo, try building the proj file
+
 Try to always use MUI components (https://mui.com/) for the tasks below:
 1- Add a theme toggle button on the nav bar that allows the user to switch between dark mode and light mode. Use React context. :: DONE
 
